@@ -1,0 +1,13 @@
+.top-category{
+    color: green;
+    border-radius: 32px;
+background: rgba(0, 152, 104, 0.10);
+    font-weight: 600;
+    font-size: 14px;
+    padding: 4px 20px 4px 20px;
+    border-radius: 3cm;
+}
+.speciallist{
+    font-weight: 700;
+    color: #05264E;
+}

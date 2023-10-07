@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.signin { 
+  position: relative;
+  right: 20px;
+}
+.nav-items {
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.Documentation {
+  font-weight: 700;
+  font-size: 12px;
+  
+}
+.Nav-background-color {
+  background: rgba(241, 245, 248, 1);
+}
+.signin-text {
+  font-size: 12px;
+  font-weight: 700;
+}
+.signin-group {
+  position: relative;
+  left: 48px;
+}
+.bg-color-button {
+  background: rgba(0, 138, 255, 1);
+}
+.book-appointment {
+  font-size: 12px;
+  font-weight: 700;
+  background-color: rgba(0, 138, 255, 1);
+}

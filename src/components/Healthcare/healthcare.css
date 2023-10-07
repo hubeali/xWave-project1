@@ -1,0 +1,94 @@
+.healthcare-text {
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 70px;
+  color: rgba(5, 38, 78, 1);
+}
+.Healthy {
+  color: rgba(0, 138, 255, 1);
+}
+.hero-bg-color {
+  background: rgba(241, 245, 248, 1);
+}
+.healthy-paragraph {
+  color: #62727e;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 36px;
+  word-spacing: 5px;
+}
+.letest-technology {
+  color: #5d6f7d;
+  font-weight: 400;
+  font-size: 15px;
+}
+.skilled {
+  color: #5d6f7d;
+  font-weight: 400;
+  font-size: 15px;
+}
+.Affortable {
+  color: #5d6f7d;
+  font-weight: 400;
+  font-size: 15px;
+}
+.hour {
+  color: #5d6f7d;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 200px;
+}
+
+.technology-div {
+  margin-left: 200px;
+}
+
+.number {
+  position: absolute;
+  font-weight: 700;
+}
+
+.callus {
+  color: #a0abb8;
+
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22.5px;
+}
+/* =========================================== Media query ============================================ */
+
+@media (max-width: 768px) {
+  .hour {
+    font-size: 14px;
+    margin-left: 50px;
+  }
+
+  .technology-div {
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hour {
+    font-size: 13px;
+    margin-left: 50px;
+  }
+
+  .technology-div {
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .hour {
+    font-size: 14px;
+    margin-left: 50px;
+  }
+
+  .technology-div {
+    margin-left: 50px;
+  }
+}
